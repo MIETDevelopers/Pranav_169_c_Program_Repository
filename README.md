@@ -1,2 +1,2 @@
-# Pranav_c_Programs
+# Pranav_169_c_Programs_Repository
 This is c repository made by pranav chalotra 
