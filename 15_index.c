@@ -1,4 +1,4 @@
-// To find maximunelement and index in array 
+// To find maximun element and index in array 
 #include<stdio.h>
 int main(){
 	int i;

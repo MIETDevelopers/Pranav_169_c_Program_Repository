@@ -1,4 +1,4 @@
-//  check number is Armstrongor not                                          © Pranav chalotra  19/March/2021
+//  check number is Armstrong or not                                          © Pranav chalotra  19/March/2021
 #include <stdio.h>
 int main() {
   int num, originalNum, remainder, result = 0;
