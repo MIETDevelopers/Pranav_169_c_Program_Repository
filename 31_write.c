@@ -17,7 +17,7 @@ int main() {
 		//Scanning the entered Values.
 		printf("Enter Name: ");
 		gets(a[i].name);
-		printf("Enter Roll Number: ");
+		printf("Enter Roll Number: ");             
 		scanf("%d",&a[i].RollNo);
 		printf("Enter Marks: ");
 		scanf("%d",&a[i].Marks);
