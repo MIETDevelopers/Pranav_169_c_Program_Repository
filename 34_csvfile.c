@@ -16,6 +16,7 @@ const char* getfield(char* line, int num)
     return NULL;
 }
 int main()
+
 {
     FILE* stream = fopen("E:\\Softwares\\C_Programs\\Ishav_160_C_Programs_Repository\\034_ReadCSV.csv", "r"); //Path of the .csv file.
 
